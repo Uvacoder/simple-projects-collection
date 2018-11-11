@@ -14,8 +14,8 @@ The purpose is to demostrate the knowledge of html, CSS and Javascript
 
 ## How To Run the Project
 
-You can play it [here](https://yunkii.github.io/portfolio-fend/).
-or you can clone it to your machine and open `index.html`
+* [Live Demo](https://yunkii.github.io/portfolio-fend/)
+*  or clone it to your machine and open `index.html`
 
 ## Dependencies
 
